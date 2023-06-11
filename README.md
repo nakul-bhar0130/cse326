@@ -1,3 +1,2 @@
 # cse326
-New Design
 THIS IS A GROUP PROJECT 
